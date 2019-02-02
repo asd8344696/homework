@@ -1,6 +1,6 @@
 package com.train;
 
-public class Test {
+public class Tester {
     public static void main(String[] args) {
 
     }
